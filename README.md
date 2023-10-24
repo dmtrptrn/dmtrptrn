@@ -1,3 +1,27 @@
+<h1>DIMITRI PATRAMAN</h1>
+        <p>Cybersecurity Professional</p>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>I am a dedicated and experienced cybersecurity professional with a passion for protecting digital assets and maintaining the confidentiality, integrity, and availability of data. I have a strong background in network security, threat detection, and incident response.</p>
+
+        <h2>Skills</h2>
+      
+            - Network Security</li>
+            <li>Firewall Management</li>
+            <li>Security Auditing</li>
+            <li>Incident Response</li>
+            <li>Penetration Testing</li>
+            <li>Cryptography</li>
+        </ul>
+
+        <h2>Contact Information</h2>
+        <p>Email: john@example.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">linkedin.com/in/johndoe</a></p>
+    </div>
+</body>
+</html>
+
 <h1>Hi, I'm Dimitri! <br/><a href="https://www.linkedin.com/in/dimitripatraman/">Aspiring Cybersecurity Professional</a>
 
 <h2>👨‍💻 My Cybersecurity Projects:</h2>
